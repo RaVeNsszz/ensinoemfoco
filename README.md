@@ -1,2 +1,2 @@
-# ensinoemfoco
+# Ensino em Foco
 
